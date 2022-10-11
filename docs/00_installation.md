@@ -4,7 +4,7 @@
 We provide an installation script to set up _ORIGO_ on an machine running Ubuntu 20.04. Please use the root user and start all commands in the `~/`, equally `/root/` folder. If you like to perform all installation steps manually, please take a look into our `installation.sh` script and pick commands as you wish. Next, we describe how you can clone the _ORIGO_ repository and perform a complete installation (including supported dependencies) using our installation script. The following steps install _ORIGO_:
 
 #### Repository cloning and installation
-1. Clone the _ORIGO_ repository to your computer using `git` (install git with the command `apt update && apt install -y git`) and the following command `cd && git clone git@github.com:anonymoussubmission001/origo.git`
+1. Clone the _ORIGO_ repository to your computer using `git` (install git with the command `apt update && apt install -y git`) and the following command `cd && git clone https://github.com/anonymoussubmission001/origo.git`
 2. Jump into the repository with the command `cd origo`.
 3. Execute the installation script with the command `./installation.sh`
 4. Run _ORIGO_ via the command line and check all available commands with `./origo`.

@@ -1,0 +1,60 @@
+{
+  "name": "example-passport-sdk-reader",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@digitalbazaar/ed25519-signature-2018": "^3.0.0",
+    "@digitalbazaar/ed25519-signature-2020": "^5.0.0",
+    "@digitalbazaar/ed25519-verification-key-2018": "^4.0.0",
+    "@digitalbazaar/ed25519-verification-key-2020": "^4.1.0",
+    "@gitcoinco/passport-sdk-reader": "^0.1.0",
+    "@gitcoinco/passport-sdk-writer": "^0.2.0",
+    "@self.id/framework": "^0.4.0",
+    "@sphereon/rn-jsonld-signatures": "^9.3.1-0",
+    "@sphereon/rn-vc-js": "^1.0.1-0",
+    "@sphereon/rn-w3c-credentials-context": "^1.0.1-0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "assert": "^2.0.0",
+    "bootstrap": "^5.2.2",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "crypto-js": "^4.1.1",
+    "js-sha256": "^0.9.0",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.1.0",
+    "react-modal": "^3.15.1",
+    "react-scripts": "5.0.1",
+    "url": "^0.11.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}

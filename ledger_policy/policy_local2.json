@@ -1,0 +1,25 @@
+{
+	"apis": [
+		{
+			"url": "https://localhost:44301/my-btc-usdt-order",
+			"content-type": "application/json",
+			"pattern": "\"price\":\\s*\"[0-9]+.[0-9]+\",",
+			"creds": false
+		}
+	],
+	"constraints": [
+		{
+			"value": "38002.4",
+			"constraint": "LT"
+		}
+	],
+	"proxies": [
+		{
+			"host": "localhost",
+			"port": "8082",
+			"mode": "signature",
+			"pubKey": "3282734573475",
+			"algorithm": "Ed25519"
+		}
+	]
+}

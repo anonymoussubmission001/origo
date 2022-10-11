@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59f7c247.css",
+    "main.js": "/static/js/main.b4e35b45.js",
+    "static/js/555.03aa0251.chunk.js": "/static/js/555.03aa0251.chunk.js",
+    "static/js/787.670b8769.chunk.js": "/static/js/787.670b8769.chunk.js",
+    "static/js/524.e7f62f5f.chunk.js": "/static/js/524.e7f62f5f.chunk.js",
+    "static/media/GitcoinLogo.svg": "/static/media/GitcoinLogo.152df8f9cb3001f19bd59d7c29a55bf0.svg",
+    "index.html": "/index.html",
+    "main.59f7c247.css.map": "/static/css/main.59f7c247.css.map",
+    "main.b4e35b45.js.map": "/static/js/main.b4e35b45.js.map",
+    "787.670b8769.chunk.js.map": "/static/js/787.670b8769.chunk.js.map",
+    "524.e7f62f5f.chunk.js.map": "/static/js/524.e7f62f5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59f7c247.css",
+    "static/js/main.b4e35b45.js"
+  ]
+}

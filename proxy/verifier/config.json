@@ -1,0 +1,9 @@
+{
+	"ZkSnarkBuildPath": "prover/zksnark_build/",
+	"StoragePath": "proxy/service/local_storage/",
+	"ProverSentRecordsFileName": "ProverSentRecords",
+	"ServerSentRecordsFileName": "ServerSentRecords",
+	"CertificatePath": "certs/certificates/",
+	"PublicInputFileName": "PublicInput",
+	"ProverShareFilePath": "prover/local_storage/PolicyExtractJsonShared"
+}

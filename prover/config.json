@@ -1,0 +1,11 @@
+{
+	"ZkSnarkBuildPath": "prover/zksnark_build/",
+	"StoragePath": "prover/local_storage/",
+	"ProveSentRecordsFileName": "ProverSentRecords",
+	"ServerSentRecordsFileName": "ServerSentRecords",
+	"PathCaCrt": "certs/certificates/ca.crt",
+	"PathProverPem": "certs/certificates/prover.pem",
+	"PathProverKey": "certs/certificates/prover.key",
+	"PolicyPath": "ledger_policy/",
+	"Rebuild": true
+}

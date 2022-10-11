@@ -1,0 +1,23 @@
+{
+ "StartBlockIdx": 7,
+ "EndBlockIdx": 10,
+ "KeyValuePatternLength": 39,
+ "OffsetKeyValuePatternStart": 6,
+ "OffsetValueStart": 37,
+ "ValueLength": 6,
+ "DotPosition": 3,
+ "KeyValueStartPattern": "\"currency_code\":\"USD\",\"value\":\"",
+ "Seq": "0000000000000001",
+ "ServerHandshakeTrafficKey": "52f38e31f50122390c4aeb8e7bc4d8e0",
+ "ServerHandshakeTrafficIV": "b4ab0bd3004e615d1af09fb3",
+ "HkdfSHTSFirstBlock": "9f533488d37d7ef52d495ddb89b1577c046fd80a455643bf189172ba09c58475",
+ "HkdfDHSFirstBlock": "9f533488d37d7ef52d495ddb89b1577c046fd80a455643bf189172ba09c58475",
+ "HkdfMSFirstBlock": "9663d27e7ac7075b4cc5e1f76f29364578fa9be7388fb68d6f25435526ca033b",
+ "HkdfKFSFirstBlock": "a6b69d8b9a11e5d9ce4c1f2a22946498dfe35865b9cfcd10573043eca44ab9db",
+ "HkdfSFFirstBlock": "e874bfed767b7215b5eabbc7efa2c2e41a9bccc195b964d8f8cddc5a9b6fd12d",
+ "HkdfSATSFirstBlock": "f86cc3106a90ed6c02beac79d4ec1473d62b34d99dc75cc52a45b7be77a2c808",
+ "HkdfKSAPPFirstBlock": "17edef15a4d35bb445a3a445fb0da33a9e92eb2ad0107442cac2e26036b9bdac",
+ "HkdfKCAPPFirstBlock": "040694e7c9a5f945b0075fd8be3ca85091cc65db508e4c6f0dd486465ab6c4b7",
+ "GaloisKeyCipher": "bbaabe37803b56c1b3058a28b9e8c09a",
+ "TaskMaskCipher": "00d916b1e343ae0e4176565d63d122e6"
+}

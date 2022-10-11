@@ -1,0 +1,8 @@
+{
+	"HostAddr": "localhost",
+	"HostPort": "44301",
+	"PathCaCrt": "../certs/certificates/ca.crt",
+	"PathServerPem": "../certs/certificates/server.pem",
+	"PathServerKey": "../certs/certificates/server.key",
+	"UrlPath": "/my-btc-usdt-order"
+}

@@ -1,0 +1,25 @@
+{
+	"apis": [
+		{
+			"url": "https://api-m.sandbox.paypal.com/v2/checkout/orders/",
+			"content-type": "application/json",
+			"pattern": "\"currency_code\":\"USD\",\"value\":\"[0-9]+.[0-9]+\",",
+			"creds": true
+		}
+	],
+	"constraints": [
+		{
+			"value": "100.00",
+			"constraint": "EQ"
+		}
+	],
+	"proxies": [
+		{
+			"host": "localhost",
+			"port": "8082",
+			"mode": "signature",
+			"pubKey": "3282734573475",
+			"algorithm": "Ed25519"
+		}
+	]
+}
